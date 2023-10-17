@@ -1,4 +1,4 @@
-# Cheminformatics-Virtual-Screen-Analysis
+# Cheminformatics Virtual Screen Analysis
 Tools utilizable for analyzing virtual screen results after k-means clustering
 
 Cheminformatics Virtual Screen Analysis
